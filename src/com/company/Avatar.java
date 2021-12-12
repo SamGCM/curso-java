@@ -1,3 +1,5 @@
+package com.company;
+
 public class Avatar {
     public static void main(String[ ] args) {
         Elements []vetor = Elements.values();
